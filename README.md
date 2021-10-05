@@ -1,1 +1,1 @@
-# unmine.sh
+# mining.sh
